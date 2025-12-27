@@ -82,7 +82,7 @@ SDL_AppResult SDL_AppInit([[maybe_unused]] void **appstate,
       SDL_WINDOW_RESIZABLE | SDL_WINDOW_HIDDEN | SDL_WINDOW_HIGH_PIXEL_DENSITY;
 
   SDL_Window *window =
-      SDL_CreateWindow("example_sdl3_bgfx", (int)(width * main_scale),
+      SDL_CreateWindow("sdl3_bgfx_imgui_example", (int)(width * main_scale),
                        (int)(height * main_scale), window_flags);
 
   if (window == nullptr) {
