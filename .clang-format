@@ -1,0 +1,16 @@
+﻿---
+BasedOnStyle: Microsoft
+AlignAfterOpenBracket: AlwaysBreak
+AllowShortCaseLabelsOnASingleLine: 'true'
+AllowShortFunctionsOnASingleLine: All
+AllowShortIfStatementsOnASingleLine: Always
+AllowShortLambdasOnASingleLine: All
+AllowShortLoopsOnASingleLine: 'true'
+IndentWidth: '4'
+PointerAlignment: Left
+SortIncludes: 'false'
+SpaceBeforeParens: Never
+Standard: Auto
+TabWidth: '4'
+
+...
